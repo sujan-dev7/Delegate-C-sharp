@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Delegate/Delegate.csproj" />
+  <Project Path="Sqlconnect/Sqlconnect.csproj" />
+</Solution>
